@@ -1,4 +1,4 @@
--- By apollyoon (<-- My Discord)
+-- Created by "apollyoon" (<-- My Discord)
 
 local main = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
